@@ -29,6 +29,7 @@ int main()
         cout << "i1 = " << i1 << "\ni2 = " << i2;
         cout << "\nf1 = " << f1 << "\nf2 = " << f2;
         cout << "\nc1 = " << c1 << "\nc2 = " << c2;
+        printf("Welcome");
 
         return 0;
 }
